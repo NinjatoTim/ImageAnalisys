@@ -18,7 +18,7 @@ Además se utilizó el famoso dataset MNIST que usualmente puede ser consumida d
 
 ## Fases del Programa
 
-El programa consta de tres fases: el entrenamiento y la predicción.
+El programa consta de dos fases: el entrenamiento y la predicción.
 
 ## Proceso de Entrenamiento
 
